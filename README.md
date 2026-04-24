@@ -81,9 +81,6 @@ Vybe is a **full-stack social media web application inspired by Instagram**, bui
 ### 💻 Desktop View
 ![image alt](https://github.com/gaurav152003/Vybe/blob/main/Screenshot%202026-01-06%20121041.png)
 
-### 📱 Mobile View
-![image alt](https://github.com/gaurav152003/Vybe/blob/main/mobile.jpeg)
-
 ---
 
 ## 🧩 Challenges Faced
@@ -96,4 +93,12 @@ Vybe is a **full-stack social media web application inspired by Instagram**, bui
 - Making the application fully responsive across devices
 
 ---
+
+## Reach Out
+
+Here's a gateway to all my socials, don't forget to hit me up!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-y15/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurav152003)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gauravyadav49909@gmail.com)
 
