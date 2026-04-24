@@ -1,6 +1,8 @@
-# 📸 Vybe – Social Media Platform 🔗 https://vybee.onrender.com/
+# 📸 Vybe – Social Media Platform
 
-Vybe is a **full-stack social media web application inspired by Instagram**, built using the **MERN stack**, allowing users to share posts, reels, and stories, interact through likes and comments, save content, and communicate via direct messaging.
+🔗 Live Demo: https://vybee.onrender.com/
+
+Vybe is a **full-stack social media web application inspired by Instagram**, built using the **MERN Stack**. It allows users to share posts, reels, and stories, interact through likes and comments, save content, and communicate via direct messaging.
 
 ---
 
